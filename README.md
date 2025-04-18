@@ -5,7 +5,7 @@
 
 Um aplicativo mobile desenvolvido em Flutter para facilitar a experiência de delivery de comida, permitindo aos usuários explorar restaurantes, selecionar pratos do cardápio e realizar pedidos de forma intuitiva.
 
-![Tela do sistema]((https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/dev/results/software.gif)
+<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" width="400"/>
 
 ##   Funcionalidades Principais:
 
