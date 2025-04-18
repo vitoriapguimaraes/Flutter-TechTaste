@@ -11,15 +11,13 @@ Um aplicativo mobile desenvolvido em Flutter para facilitar a experiência de de
 
 - Tela de Splash: Exibe uma animação de abertura durante o carregamento inicial do aplicativo.
 - Tela Inicial:
-   - Apresenta categorias de restaurantes (ex: Italiana, Japonesa, Brasileira).
-   - Lista os restaurantes disponíveis para cada categoria.
+   - Apresenta categorias de restaurantes.
+   - Lista os restaurantes disponíveis.
 - Tela de Restaurante:
    - Exibe o cardápio completo do restaurante selecionado.
    - Permite ao usuário escolher os pratos desejados e adicioná-los ao carrinho. 
 - Tela de Checkout:
    - Mostra todos os pratos selecionados no carrinho.
-   - Calcula o valor total do pedido.
-   - Permite ao usuário finalizar a compra.
 
 ##   Tecnologias Utilizadas:
 
