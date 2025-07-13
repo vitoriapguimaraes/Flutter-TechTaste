@@ -60,7 +60,7 @@
 
 ## Status
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 > Veja as [issues abertas](https://github.com/vitoriapguimaraes/Flutter-TechTaste/issues) para sugestões de melhorias e próximos passos.
 
