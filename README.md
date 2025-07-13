@@ -5,7 +5,7 @@
 
 [![Acesse: Tech Taste](https://img.shields.io/badge/-Acesse:%20Tech%20Taste-000000?style=for-the-badge)](https://github.com/vitoriapguimaraes/Flutter-TechTaste/)
 
-![Demonstração do sistema](https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true)
+<img src="https://github.com/vitoriapguimaraes/Flutter-TechTaste/blob/main/software_view.gif?raw=true" alt="Tela do sistema" width="400"/>
 
 ## Funcionalidades Principais
 
